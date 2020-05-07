@@ -11,7 +11,7 @@ This document will tell you how to use the Labelit Platform. If you have problem
 To create a new project, enter the project details into the "New Project" section. The project description is optional.
 
 #### 1.1.1 Project Password
-The project password is not the same as your user password - it's project-specific and cannot be changed at a later point since it's used for database encription. You have to enter it every time you start to work on a project.  
+The project password is not the same as your user password - it's project-specific and cannot be changed at a later point since it's used for database encryption. You have to enter it every time you start to work on a project.  
 
 #### 1.1.2 Text Import
 Depending on how your text data are stored you can choose .csv import or import from a folder with separate text files.
